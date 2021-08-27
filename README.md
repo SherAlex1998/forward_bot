@@ -1,6 +1,6 @@
 # forward_bot
 
-A simple bot that sends messages to the Telegram group
+A simple bot that sends messages to the Telegram group.
 
 ---------------------------
 
